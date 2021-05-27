@@ -25,6 +25,14 @@ Version 3.1.1
 - WBW: CP/M 3 RTC support is now complete (reads and writes RTC date/time)
 - WBW: Add config to allow swapping logical order of MT011 SPI ports
 - WBW: COPY.COM updated from v1.72 -> v1.73 throughout distribution
+- D?M: CP/NET for CP/M 2.2 and CP/M 3 (requires MT011)
+- D?M: SD driver fixes for MT011
+- J?C: Added FIND application from Jay Cotton
+- PMS: Preliminary support for I2C-based DS1307 clock
+- WBW: FD driver auto hardware detect (thanks Alan Cox)
+- D?N: Added support for TMS V9958 VDU
+- D?N: Added support for MSX keyboard
+- D?N: Added support for RP5C01 RTC
 
 Version 3.1
 -----------
